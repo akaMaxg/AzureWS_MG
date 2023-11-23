@@ -1,3 +1,3 @@
 # AzureWS_MG
 
-maxazurenet22demo.azurewebsites.net
+[maxazurenet22demo.azurewebsites.net](Azure hosting workshop)
